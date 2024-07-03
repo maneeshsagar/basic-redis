@@ -36,10 +36,5 @@ basic-redis/
 
    ```sh
    git clone https://github.com/maneeshsagar/basic-redis.git
-   cd repository
+   cd basic-redis
    docker-compose up --build
-  ```sh
-
-   
-
-  
