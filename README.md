@@ -1,30 +1,6 @@
 # Go Redis Project
 
 This is a simple Go application that connects to a Redis instance using Docker Compose. The project demonstrates how to set up a Go application with Redis, using a Dockerized environment.
-
-## Project Structure
-
-basic-redis/
-├── Dockerfile
-├── docker-compose.yml
-├── main.go
-├── db/
-│ └── redis.go
-├── config/
-│ └── config.go
-└── handlers/
-  └── handler.go 
-└── service/
-  └── putService.go
-  ...
-└── persistence/
-  └── persistence.go 
-  ...
-└── util/
-  └── response.go 
-  ...
-└── iolayer/
-  └── request.go 
   
 ## Prerequisites
 
